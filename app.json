@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "readit",
+    "slug": "readit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F6F1E7",
+    "splash": {
+      "backgroundColor": "#F6F1E7"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.readit.app"
+    },
+    "android": {
+      "package": "com.readit.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#F6F1E7"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
